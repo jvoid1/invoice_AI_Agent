@@ -1,0 +1,8 @@
+langchain>=0.1.0
+langgraph>=0.0.10
+langchain-openai>=0.0.2
+playwright>=1.40
+IPython>=8.0.0
+nest-asyncio>=1.5.8
+typing-extensions>=4.8.0
+python-dotenv>=1.0.0
